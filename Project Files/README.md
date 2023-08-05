@@ -1,5 +1,5 @@
 # Parking Space Detection in OpenCV
-For a fun weekend project, I decided to play around with the OpenCV (Open Source Computer Vision) library in python.
+
 
 OpenCV is an extensive open source library (available in python, Java, and C++) that's used for image analysis and is pretty neat.
 
